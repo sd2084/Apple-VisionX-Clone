@@ -1,1 +1,1 @@
-# Apple-VisionX-Clone
+The Apple Vision Pro Clone is a frontend website replicating the design and functionality of the Apple Vision Pro website. Developed using HTML, CSS, and JavaScript, it features a responsive design, product showcase, search functionality, and an interactive user interface. This project serves as a challenge to enhance web development skills and demonstrate proficiency in frontend technologies.
