@@ -3,3 +3,5 @@ The Apple Vision Pro Clone is a frontend website replicating the design and func
 
 <img width="930" alt="image" src="https://github.com/sd2084/Apple-VisionX-Clone/assets/131029535/a847bad8-6baf-4761-976a-5d5892429e91">
 
+<img width="862" alt="image" src="https://github.com/sd2084/Apple-VisionX-Clone/assets/131029535/3f2139df-140f-425e-8839-d60a0bde0494">
+
